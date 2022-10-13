@@ -1,6 +1,6 @@
-# Name
+# Bootify App
 
-Overview
+This project is made with Spring Boot with Kotlin.
 
 ## Description
 
