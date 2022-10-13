@@ -1,33 +1,29 @@
-# MyApp
+# Name
 
-This app was created with Bootify.io - more documentation [can be found here](https://bootify.io/docs/). Feel free to contact us for further questions.
+Overview
 
-## Development
+## Description
 
-During development it is recommended to use the profile `local`. In IntelliJ, `-Dspring.profiles.active=local` can be added in the VM options of the Run Configuration after enabling this property in "Modify options".
+## Demo
 
-Update your local database connection in `application.yml` or create your own `application-local.yml` file to override settings for development.
+## Features
 
-After starting the application it is accessible under `localhost:8080`.
+- feature:1
+- feature:2
 
-## Build
+## Requirement
 
-The application can be built using the following command:
+## Usage
 
-```
-gradlew clean build
-```
+## Installation
 
-The application can then be started with the following command - here with the profile `production`:
+## References
 
-```
-java -Dspring.profiles.active=production -jar ./build/libs/my-app-0.0.1-SNAPSHOT.jar
-```
+## Licence
 
-## Further readings
+Released under the [MIT license](https://gist.githubusercontent.com/shinyay/56e54ee4c0e22db8211e05e70a63247e/raw/34c6fdd50d54aa8e23560c296424aeb61599aa71/LICENSE)
 
-* [Gradle user manual](https://docs.gradle.org/)  
-* [Spring Boot reference](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)  
-* [Spring Data JPA reference](https://docs.spring.io/spring-data/jpa/docs/current/reference/html/)  
-* [Thymeleaf docs](https://www.thymeleaf.org/documentation.html)  
-* [Bootstrap docs](https://getbootstrap.com/docs/5.2/getting-started/introduction/)  
+## Author
+
+[shinyay](https://github.com/shinyay)
+- twitter: https://twitter.com/yanashin18618
